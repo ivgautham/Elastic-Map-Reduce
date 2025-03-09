@@ -31,8 +31,3 @@ The `data/` directory contains the dataset used for the ETL process. This datase
 - Apache Spark
 - AWS CLI
 - An AWS account with necessary permissions to create and manage EMR clusters
-
-## Watch the Video Tutorial
-For a complete walkthrough and practical demonstration, check out the video here:
-
-[![EMR Masterclass](https://img.youtube.com/vi/ZFns7fvBCH4/0.jpg)](https://www.youtube.com/watch?v=ZFns7fvBCH4)
