@@ -27,7 +27,6 @@ The `commands.py` directory contains detailed instructions and necessary scripts
 ## Data
 The `data/` directory contains the dataset used for the ETL process. This dataset is a sample that represents the type of data the Spark script is designed to process.
 
-## Requirements
+## Skills
 - Apache Spark
-- AWS CLI
-- An AWS account with necessary permissions to create and manage EMR clusters
+- AWS EMR
