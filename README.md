@@ -29,4 +29,5 @@ The `data/` directory contains the dataset used for the ETL process. This datase
 
 ## Skills
 - Apache Spark
-- AWS EMR
+- AWS S3, EMR
+
