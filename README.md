@@ -5,7 +5,7 @@
 - [Description](#description)
 - [Code-Flow](#code-flow)
 - [Module-Explanation](#module-explanation)
-- [usage](#usage)
+- [Usage](#usage)
 - [Architecture](#architecture)
 - [Future-Development](#future-development)
 ## Description
