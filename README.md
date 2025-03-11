@@ -3,11 +3,11 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Code-Flow](#code flow)
-- [Module-Explanation](#module explanation)
+- [Code-Flow](#code-flow)
+- [Module-Explanation](#module-explanation)
 - [usage](#usage)
 - [Architecture](#architecture)
-- [Future-Development](#future development)
+- [Future-Development](#future-development)
 ## Description
 This project demonstrates the use of Amazon Elastic Map Reduce (EMR) for processing large datasets using Apache Spark. It includes a Spark script for ETL (Extract, Transform, Load) operations, AWS command line instructions for setting up and managing the EMR cluster, and a dataset for testing and demonstration purposes.
 
